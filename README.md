@@ -1,3 +1,5 @@
+![Void Logo](lsnvoid_black.png "Void Logo")
+
 ## Hi there 👋 greetings from Void
 
 Void aims to provide products for everyday usage in the form of web and mobile applications.
